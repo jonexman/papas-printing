@@ -22,7 +22,7 @@ export default function About() {
             transition={{ delay: 0.4 }}
           >
             <img
-              src="/window.svg"
+              src="https://picsum.photos/seed/picsum/800/600"
               alt="About Us"
               className="rounded-lg shadow-lg"
             />
