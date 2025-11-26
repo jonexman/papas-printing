@@ -46,6 +46,26 @@ const services = [
     icon: "Gift",
     desc: "Mugs, pens, T-shirts, calendars, branded merch",
   },
+  {
+    title: "Custom Printing",
+    icon: "Custom",
+    desc: "We can print on anything. If you can think it, we can print it.",
+  },
+  {
+    title: "Finishing & Binding",
+    icon: "Binding",
+    desc: "Lamination, UV coating, foil stamping, embossing.",
+  },
+  {
+    title: "Packaging",
+    icon: "Packaging",
+    desc: "Custom boxes, bags, labels, and more.",
+  },
+  {
+    title: "Promotional Products",
+    icon: "Promo",
+    desc: "Pens, mugs, t-shirts, and other promotional items.",
+  },
 ];
 
 export default function Services() {
